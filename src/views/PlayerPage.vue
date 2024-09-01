@@ -30,7 +30,6 @@ props: {
   },
   methods: {
     goBack(){
-      console.log(this.$router);
       this.$router.back(-1);
       
     }

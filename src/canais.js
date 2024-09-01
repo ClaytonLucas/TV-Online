@@ -9,28 +9,28 @@ const conteudo = [{
         },
         {
             nome: 'SporTV',
-            imagem: 'https://imgur.com/bwqLqyg.png',
+            imagem: 'https://i.imgur.com/bwqLqyg.png',
             categoria: 'Esportes',
             link:'http://dzcdn.vood.top:80/hls/546_.m3u8'
         },
         {
             nome: 'SporTV 2',
-            imagem: 'https://imgur.com/ZpjPkqS.png',
+            imagem: 'https://i.imgur.com/ZpjPkqS.png',
             categoria: 'Esportes',
             link:'http://dzcdn.vood.top:80/hls/551_.m3u8'
         },
         {
             nome: 'SporTV 3',
-            imagem: 'https://imgur.com/ttHpdGp.png',
+            imagem: 'https://i.imgur.com/ttHpdGp.png',
             categoria: 'Esportes',
             link:'http://dzcdn.vood.top:80/hls/556_.m3u8'
         },
-        {
-            nome: 'Combate',
-            imagem: 'https://imgur.com/HIiZUQN.png1',
-            categoria: 'Esportes',
-            link:'https://abc.embedmax.site/combate/tracks-v1a1/mono.m3u8'
-        },
+        // {
+        //     nome: 'Combate',
+        //     imagem: 'https://imgur.com/HIiZUQN.png1',
+        //     categoria: 'Esportes',
+        //     link:'https://abc.embedmax.site/combate/tracks-v1a1/mono.m3u8'
+        // },
         {
             nome: 'ESPN',
             imagem: 'https://i.imgur.com/CkoAvYH.png',
@@ -45,13 +45,13 @@ const conteudo = [{
         },
         {
             nome: 'ESPN 3',
-            imagem: 'https://imgur.com/VCPTlBD.png',
+            imagem: 'https://i.imgur.com/VCPTlBD.png',
             categoria: 'Esportes',
             link:'https://cdn-4.nxplay.com.br/ESPN_3/index.m3u8'
         },
         {
             nome: 'Premiere Clubes',
-            imagem: 'https://imgur.com/T6VmjYB.png',
+            imagem: 'https://i.imgur.com/T6VmjYB.png',
             categoria: 'Esportes',
             link:'http://izcdn.vood.top:80/hls/492_.m3u8'
         },
@@ -63,19 +63,19 @@ const conteudo = [{
         },
         {
             nome: 'Canal GOAT YT (não é 24h)',
-            imagem: 'https://imgur.com/KlMpCWS.png',
+            imagem: 'https://i.imgur.com/KlMpCWS.png',
             categoria: 'Esportes',
             link:'https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8'
         },
         
     ],
     "TV Aberta": [
-        // {
-        //     nome: 'Rede Globo',
-        //     imagem: 'https://i.imgur.com/O02TF2r.png',
-        //     categoria: 'TV Aberta',
-        //     link:'http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/117.m3u8'
-        // },
+        {
+            nome: 'Rede Globo',
+            imagem: 'https://i.imgur.com/O02TF2r.png',
+            categoria: 'TV Aberta',
+            link:'http://cdnexpress.homelinux.net/live/144.m3u8'
+        },
         {
             nome: 'SBT',
             imagem: 'https://i.imgur.com/tc1ALuu.png',
@@ -86,7 +86,7 @@ const conteudo = [{
             nome: 'Band',
             imagem: 'https://i.imgur.com/1r5T6Pw.png',
             categoria: 'TV Aberta',
-            link:'https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV'
+            link:'https://cdn-4.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8'
         },
         {
             nome: 'Record',
@@ -123,91 +123,91 @@ const conteudo = [{
         
         {
             nome: 'TNT',
-            imagem: 'https://imgur.com/kA3ov0x.png',
+            imagem: 'https://i.imgur.com/kA3ov0x.png',
             categoria: 'Filmes',
             link:'https://cdn-4.nxplay.com.br/TNT_TK/tracks-v1a1/mono.m3u8'
         },
         {
             nome: 'SPACE',
-            imagem: 'https://imgur.com/RxETCgZ.png',
+            imagem: 'https://i.imgur.com/RxETCgZ.png',
             categoria: 'Filmes',
             link:'http://hzcdn.vood.top:80/hls/705_.m3u8'
         },
         {
             nome: 'A&E',
-            imagem: 'https://imgur.com/EYAmbe4.png',
+            imagem: 'https://i.imgur.com/EYAmbe4.png',
             categoria: 'Filmes',
-            link:'https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8'
+            link:'http://cdnexpress.homelinux.net/live/74.m3u8'
         },
         {
             nome: 'PARAMOUNT',
-            imagem: 'https://imgur.com/GPcKZ2i.png',
+            imagem: 'https://i.imgur.com/GPcKZ2i.png',
             categoria: 'Filmes',
-            link:'https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.m3u8'
+            link:'http://fzcdn.vood.top:80/hls/694_.m3u8'
         },
         {
             nome: 'TELECINE PREMIUM',
-            imagem: 'https://imgur.com/SGr7sdL.png',
+            imagem: 'https://i.imgur.com/SGr7sdL.png',
             categoria: 'Filmes',
             link:'http://fzcdn.vood.top:80/hls/633_.m3u8'
         },
         {
             nome: 'AMC BRASIL',
-            imagem: 'https://imgur.com/2lr4rvX.png',
+            imagem: 'https://i.imgur.com/2lr4rvX.png',
             categoria: 'Filmes',
-            link:'https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8'
+            link:'https://cdn-4.nxplay.com.br/AMC_BRASIL_TK/index.m3u8'
         },
         {
             nome: 'Sony',
             imagem: 'https://i.imgur.com/18X62CK.png',
             categoria: 'Filmes',
-            link:'https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8'
+            link:'https://cdn-4.nxplay.com.br/SONY_CHANNEL/index.m3u8'
         },
-        {
-            nome: 'Filmes Suspense',
-            imagem: 'https://i.imgur.com/45V9MKk.png',
-            categoria: 'Filmes',
-            link:'https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS'
-        },
+        // {
+        //     nome: 'Filmes Suspense',
+        //     imagem: 'https://i.imgur.com/45V9MKk.png',
+        //     categoria: 'Filmes',
+        //     link:'https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS'
+        // },
         {
             nome: 'Runtime Ação',
-            imagem: 'https://imgur.com/3Wpaz9E.png',
+            imagem: 'https://i.imgur.com/3Wpaz9E.png',
             categoria: 'Filmes',
             link:'https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552'
         },
         {
             nome: 'Runtime TV e Filmes',
-            imagem: 'https://imgur.com/5aavtj1.png',
+            imagem: 'https://i.imgur.com/5aavtj1.png',
             categoria: 'Filmes',
             link:'https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153'
         },
         {
             nome: 'Runtime Comédia',
-            imagem: 'https://imgur.com/TZ7LfjB.png',
+            imagem: 'https://i.imgur.com/TZ7LfjB.png',
             categoria: 'Filmes',
             link:'https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553'
         },
         {
             nome: 'Runtime Família',
-            imagem: 'https://imgur.com/pFtnILf.png',
+            imagem: 'https://i.imgur.com/pFtnILf.png',
             categoria: 'Filmes',
             link:'https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589'
         },
         {
             nome: 'Runtime Romance',
-            imagem: 'https://imgur.com/U6ElKK3.png',
+            imagem: 'https://i.imgur.com/U6ElKK3.png',
             categoria: 'Filmes',
             link:'https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866'
         },
         {
             nome: 'Runtime Cine Espanto',
-            imagem: 'https://imgur.com/bzX7MO8.png',
+            imagem: 'https://i.imgur.com/bzX7MO8.png',
             categoria: 'Filmes',
             link:'https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865'
         },
         {
             nome: 'Runtime Crime',
-            imagem: 'https://imgur.com/KQt9WGA.png',
+            imagem: 'https://i.imgur.com/KQt9WGA.png',
             categoria: 'Filmes',
             link:'https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864'
         },
@@ -221,7 +221,7 @@ const conteudo = [{
         },
         {
             nome: 'Cartoon Network',
-            imagem: 'https://imgur.com/dlTmblr.png',
+            imagem: 'https://i.imgur.com/dlTmblr.png',
             categoria: 'Desenho',
             link:'http://cdn2.connectbr.com.br/Cartoon-Network/index.m3u8'
         },
@@ -229,13 +229,13 @@ const conteudo = [{
             nome: 'Nick Clássico',
             imagem: 'https://i.imgur.com/Crip6wT.png',
             categoria: 'Desenho',
-            link:'https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8'
+            link:'http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV'
         },
         {
             nome: 'DISCOVERY KIDS',
-            imagem: 'https://imgur.com/WxKCkhL.png',
+            imagem: 'https://i.imgur.com/WxKCkhL.png',
             categoria: 'Desenho',
-            link:'https://cdn-3.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8'
+            link:'https://cdn-4.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8'
         },
         {
             nome: 'Nick Jr. Club',
@@ -251,16 +251,16 @@ const conteudo = [{
         },
         {
             nome: 'Fox Kids',
-            imagem: 'https://imgur.com/9X7XBlD.png',
+            imagem: 'https://i.imgur.com/9X7XBlD.png',
             categoria: 'Desenho',
             link:'https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8'
         },
-        {
-            nome: 'Pluto TV Anime',
-            imagem: 'https://images.pluto.tv/channels/5f12136385bccc00070142ed/featuredImage.jpg',
-            categoria: 'Desenho',
-            link:'http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus'
-        },
+        // {
+        //     nome: 'Pluto TV Anime',
+        //     imagem: 'https://images.pluto.tv/channels/5f12136385bccc00070142ed/featuredImage.jpg',
+        //     categoria: 'Desenho',
+        //     link:'http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus'
+        // },
         {
             nome: 'Loading...TV',
             imagem: 'https://listaiptv.gratis/logos/imagens/loadingamarelo.png',
@@ -269,7 +269,7 @@ const conteudo = [{
         },
         {
             nome: 'Animax',
-            imagem: 'https://imgur.com/BatygW5.png',
+            imagem: 'https://i.imgur.com/BatygW5.png',
             categoria: 'Desenho',
             link:'https://stream.ichibantv.com:3547/hybrid/play.m3u8'
         },
@@ -289,10 +289,10 @@ const conteudo = [{
             link:'https://cdn-4.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV'
         },
         {
-            nome: 'Jovem Pan News',
+            nome: 'Jovem Pan',
             imagem: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png',
             categoria: 'Notícias',
-            link:'https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8'
+            link:'https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8'
         },
         {
             nome: 'Record News',
@@ -302,13 +302,13 @@ const conteudo = [{
         },
         {
             nome: 'Globo News',
-            imagem: 'https://imgur.com/Wu4ykxo.png',
+            imagem: 'https://i.imgur.com/Wu4ykxo.png',
             categoria: 'Notícias',
             link:'http://dzcdn.vood.top/hls/479_.m3u8'
         },
         {
             nome: 'CNN BRASIL',
-            imagem: 'https://imgur.com/4dfmnBs.png',
+            imagem: 'https://i.imgur.com/4dfmnBs.png',
             categoria: 'Notícias',
             link:'https://cdn-3.nxplay.com.br/CNN_FAST/tracks-v2a1/mono.m3u8'
         },
@@ -332,13 +332,13 @@ const conteudo = [{
         },
         {
             nome: '24h News',
-            imagem: 'https://imgur.com/63xr9fk.png',
+            imagem: 'https://i.imgur.com/63xr9fk.png',
             categoria: 'Notícias',
             link:'http://cdn.connectbr.com.br/24_news/index.m3u8?ManoTV'
         },
         {
             nome: 'TV VIDEONEWS',
-            imagem: 'https://imgur.com/4m1j3CL.png',
+            imagem: 'https://i.imgur.com/4m1j3CL.png',
             categoria: 'Notícias',
             link:'https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8'
         },
@@ -352,7 +352,7 @@ const conteudo = [{
         // },
         {
             nome: 'Multishow ',
-            imagem: 'https://imgur.com/a4lEiwk.png',
+            imagem: 'https://i.imgur.com/a4lEiwk.png',
             categoria: 'Variedades',
             link:'http://dzcdn.vood.top:80/hls/377243_.m3u8'
         },
@@ -368,15 +368,15 @@ const conteudo = [{
             categoria: 'Variedades',
             link:'https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8'
         },
-        {
-            nome: 'https://i.imgur.com/7HTxrEq.png',
-            imagem: 'Trace Sport Stars',
-            categoria: 'Variedades',
-            link:'https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8'
-        },
+        // {
+        //     nome: 'Trace Sport Stars',
+        //     imagem: 'https://i.imgur.com/7HTxrEq.png',
+        //     categoria: 'Variedades',
+        //     link:'https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8'
+        // },
         {
             nome: 'Motorvision',
-            imagem: 'https://imgur.com/jlhvLJb.png',
+            imagem: 'https://i.imgur.com/jlhvLJb.png',
             categoria: 'Variedades',
             link:'https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8'
         },
@@ -394,22 +394,17 @@ const conteudo = [{
         },
         {
             nome: 'Hello TV',
-            imagem: 'https://imgur.com/XXm7kn7.png',
+            imagem: 'https://i.imgur.com/XXm7kn7.png',
             categoria: 'Variedades',
             link:'http://cdn.connectbr.com.br:80/Hello/mono.m3u8?ManoTV'
         },
-        {
-            nome: 'Comedy Central',
-            imagem: 'https://imgur.com/jcgv2zs.png',
-            categoria: 'Variedades',
-            link:'https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/288/288.m3u8'
-        },
         // {
-        //     nome: 'TLC',
-        //     imagem: 'https://imgur.com/2F9asSD.png',
+        //     nome: 'Comedy Central',
+        //     imagem: 'https://i.imgur.com/jcgv2zs.png',
         //     categoria: 'Variedades',
-        //     link:'https://cdn-3.nxplay.com.br/TLC_BR_NX/index.m3u8'
+        //     link:'https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/288/288.m3u8'
         // },
+
         // {
         //     nome: 'Discovery Turbo',
         //     imagem: 'https://imgur.com/lH1Srp9.png',
